@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "948902910104",
+    "firebase_url": "https://receptacle-ab529.firebaseio.com",
+    "project_id": "receptacle-ab529",
+    "storage_bucket": "receptacle-ab529.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:948902910104:android:f48d3bcb0608e989",
+        "android_client_info": {
+          "package_name": "com.harshit.sharma.receptacle"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "948902910104-02gjul24d742epao59bru52l43m25ol5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBOAkBlulbN8pQWHdu62qhVM-viZ6kZq08"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
